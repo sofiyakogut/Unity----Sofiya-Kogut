@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{98E7ACED-9B21-C9F5-094C-44E27B71F7F2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Elemento1.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Elemento1.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Elemento2.cs" />
+      <File FileName="Assets/Scripts/Elemento3.cs" />
+      <File FileName="Assets/Scripts/Elemento4.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/Movedor.cs" Line="182" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Actividad2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Elemento1.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8089b82a-0ae4-4c80-95dc-625910ac8a1c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
